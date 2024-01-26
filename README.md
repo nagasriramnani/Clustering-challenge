@@ -43,7 +43,7 @@ The project includes the following key steps and methodologies:
 
 2. **Dimensionality Reduction**: Incremental PCA was used to reduce the dimensionality of the high-dimensional embedding vectors while retaining meaningful information.
 
-3. **Text Vectorization**: TF-IDF vectorization was applied to the textual contents of the URLs to convert text into numerical data.
+3. **Text Vectorization**: PCA & TF-IDF vectorization was applied to the textual contents of the URLs to convert text into numerical data.
 
 4. **Clustering**: Mini-Batch K-Means clustering was employed to group similar URLs together based on the reduced data.
 
