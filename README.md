@@ -1,29 +1,29 @@
-# Clustering Challenge Project
+# Clustering Challenge Project ML Intern Test 2024
 
 ## Overview
 This repository contains the code and documentation for a clustering challenge involving a dataset of URLs, textual content, and high-dimensional embedding vectors. The objective of this project is to explore and understand the inherent groupings within the dataset using unsupervised machine learning techniques.
 
 ## Approach to solve this challenge: 
 
-1.**Load the dataset :from the provided daset.parquet file to examine its structure and contents.
+1. **Load the dataset** :from the provided daset.parquet file to examine its structure and contents.
 
 
-2. **Data Preprocessing: Ensure that the numerical data is in the correct format for analysis, handling any missing or malformed data.
+2. **Data Preprocessing:** Ensure that the numerical data is in the correct format for analysis, handling any missing or malformed data.
 
 
-3. **Exploratory Data Analysis (EDA): Perform EDA to understand the distribution of the data and possibly reduce dimensionality for visualization.
+3. **Exploratory Data Analysis (EDA):** Perform EDA to understand the distribution of the data and possibly reduce dimensionality for visualization.
 
 
-4. **Clustering: Apply unsupervised machine learning algorithms like K-means, DBSCAN, or hierarchical clustering to segment the data.
+4. **Clustering:** Apply unsupervised machine learning algorithms like K-means, DBSCAN, or hierarchical clustering to segment the data.
 
 
-5. **Evaluation: Evaluate the clusters using metrics like silhouette score or Davies-Bouldin index to assess the performance of the algorithm.
+5. **Evaluation:** Evaluate the clusters using metrics like silhouette score or Davies-Bouldin index to assess the performance of the algorithm.
 
 
-6. **Interpretation: Use the URL and text contents as supplementary information to understand the context of the clusters formed.
+6. **Interpretation:** Use the URL and text contents as supplementary information to understand the context of the clusters formed.
 
 
-7. **Further Steps: Based on the initial findings, decide on further steps to refine the model, such as feature engineering, using different 
+7. **Further Steps:** Based on the initial findings, decide on further steps to refine the model, such as feature engineering, using different 
 algorithms, or incorporating the supplementary data into the model in some form.
 
 
@@ -35,8 +35,6 @@ The project is organized as follows:
 - Generated sample clsuter files which are generated from the Step-6
 - To run the code there is a file named MachineLearning_test.ipynb
 - Make sure install all the Libraries requried
-
-
 
 ## Key Steps and Methodology
 The project includes the following key steps and methodologies:
