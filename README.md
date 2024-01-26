@@ -14,7 +14,7 @@ This repository contains the code and documentation for a clustering challenge i
 3. **Exploratory Data Analysis (EDA):** Perform EDA to understand the distribution of the data and possibly reduce dimensionality for visualization.
 
 
-4. **Clustering:** Apply unsupervised machine learning algorithms like K-means, DBSCAN, or hierarchical clustering to segment the data.
+4. **Clustering:** Apply unsupervised machine learning algorithms like K-means, DBSCAN to segment the data.
 
 
 5. **Evaluation:** Evaluate the clusters using metrics like silhouette score or Davies-Bouldin index to assess the performance of the algorithm.
